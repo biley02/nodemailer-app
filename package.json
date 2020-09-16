@@ -1,0 +1,16 @@
+{
+    "name": "nodecontactform",
+    "version": "1.0.0",
+    "description": "Sample app using nodemailer",
+    "main": "app.js",
+    "author": "Brad Traversy",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "dotenv": "^8.2.0",
+        "ejs": "^3.1.5",
+        "express": "^4.15.4",
+        "express-handlebars": "^3.0.0",
+        "nodemailer": "^4.1.0"
+    }
+}
